@@ -1,4 +1,4 @@
-# Machine-Learning---CS60050
+# Machine-Learning---CS60050 IITKGP
 Assignments of ML course at IITKGP. Contains Functions of ML algorithms coded without inbuilt libraries
 
 **Bayesian Classification with Dimension Reduction and Recursive Backward Feature Selection**
