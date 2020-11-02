@@ -1,9 +1,9 @@
 # Machine-Learning---CS60050
 Assignments of ML course at IITKGP. Contains Functions of ML algorithms coded without inbuilt libraries
 
-**Bayesian Classification with Dimension Reduction and Backward Feature selection**
+**Bayesian Classification with Dimension Reduction and Recursive Backward Feature Selection**
 
-As part of our course structure, this algorithm has been built from scratch using Python without any inuilt functions
+As part of our course structure, this algorithm has been built from scratch using Python without any inbuilt functions
 As a result, you might find handpicked domain based feature selection, hyperparamater fine tuning and algorithmic modification that enhances performance.
 *Our Bayesian Model outperforms the inbuilt Sklearn model by 10% on 5Fold CV accuracy*
 
