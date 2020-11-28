@@ -6,7 +6,7 @@ Assignments of ML course at IITKGP. Contains Functions of ML algorithms coded wi
 
 
 ## Assignment 1 
-**Bayesian Classification with Dimension Reduction and Recursive Backward Feature Selection**
+### **Bayesian Classification with Dimension Reduction and Recursive Backward Feature Selection**
 
 As part of our course structure, this algorithm has been built from scratch using Python without any inbuilt functions
 As a result, you might find handpicked domain based feature selection, hyperparamater fine tuning and algorithmic modification that enhances performance.
@@ -23,7 +23,8 @@ The Results contains the Inferences and performance of our Bayesian model in cla
 README file has been attached to help you run the code.
 
 ## Assignment 2 
-**Regression Tree from Scratch along with recursive Post Pruning**
+### **Regression Tree from Scratch along with recursive Post Pruning**
+
 As part of our coding assignments, this algorithm has been built from scratch using Python without any inbuilt functions.
 
 In this Project, we perfrom Regression Tree with hanpicked heuristics (similar to Entropy and Information Gain) to achieve a 96% accuracy for prediction of Number of Covid Deaths in India per day.
